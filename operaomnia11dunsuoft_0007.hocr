@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomnia11dunsuoft_0007.png"; bbox 0 0 2736 4042; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 714 261 1973 349">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 714 261 1973 349">
+     <span class='ocr_line' id='line_1_1' title="bbox 714 261 1973 349; baseline 0.008 -25"><span class='ocrx_word' id='word_1_1' title='bbox 714 261 1246 349; x_wconf 87' lang='lat' dir='ltr'>JOHANNES</span> <span class='ocrx_word' id='word_1_2' title='bbox 1299 264 1566 330; x_wconf 85' lang='lat' dir='ltr'>DUNS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1619 266 1973 334; x_wconf 84' lang='lat' dir='ltr'>SCOTUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 925 743 1766 1141">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 925 743 1766 1141">
+     <span class='ocr_line' id='line_1_2' title="bbox 964 743 1733 910; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 964 743 1733 910; x_wconf 86' lang='lat' dir='ltr'>OPERA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 925 973 1766 1141; baseline -0.001 -1"><span class='ocrx_word' id='word_1_5' title='bbox 925 973 1766 1141; x_wconf 87' lang='lat' dir='ltr'>OMNIA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1277 1454 1396 1494">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1277 1454 1396 1494">
+     <span class='ocr_line' id='line_1_4' title="bbox 1277 1454 1396 1494; baseline 0.008 -1"><span class='ocrx_word' id='word_1_6' title='bbox 1277 1454 1344 1494; x_wconf 88' lang='lat' dir='ltr'>XI.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1372 1455 1396 1494; x_wconf 89' lang='lat'>2</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1280 3392 1387 3495">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1280 3392 1387 3495">
+     <span class='ocr_line' id='line_1_5' title="bbox 1280 3392 1387 3495; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 1280 3392 1387 3495; x_wconf 86' lang='lat' dir='ltr'>O</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1275 3496 1394 3686">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1275 3496 1394 3686">
+     <span class='ocr_line' id='line_1_6' title="bbox 1275 3496 1394 3542; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 1275 3496 1394 3542; x_wconf 63' lang='grc' dir='ltr'>Ξ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 1276 3641 1378 3686; baseline 0.039 -4"><span class='ocrx_word' id='word_1_10' title='bbox 1276 3641 1378 3686; x_wconf 90' lang='lat'>1969</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 656 3780 1984 3907">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 656 3780 1984 3907">
+     <span class='ocr_line' id='line_1_8' title="bbox 656 3780 1984 3833; baseline 0.009 -12"><span class='ocrx_word' id='word_1_11' title='bbox 656 3780 880 3823; x_wconf 88' lang='lat' dir='ltr'>GEORG</span> <span class='ocrx_word' id='word_1_12' title='bbox 918 3783 1087 3825; x_wconf 91' lang='lat' dir='ltr'>OLMS</span> <span class='ocrx_word' id='word_1_13' title='bbox 1126 3786 1984 3833; x_wconf 87' lang='lat' dir='ltr'>VERLAGSBUCHHANDLUNG</span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 1122 3866 1529 3907; baseline 0.005 -2"><span class='ocrx_word' id='word_1_14' title='bbox 1122 3866 1529 3907; x_wconf 87' lang='lat' dir='ltr'><strong>HILDESHEIM</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
